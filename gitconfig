@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = marlowevskyzhao@gmail.com
+	name = jinsheng zhao
